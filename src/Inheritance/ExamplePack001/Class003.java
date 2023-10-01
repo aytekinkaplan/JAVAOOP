@@ -8,7 +8,5 @@ public class Class003 extends Class002 {
         this.addres = addres;
     }
 
-    public Class003(String teddy, String bear, int salary) {
-        super();
-    }
+
 }
