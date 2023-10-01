@@ -11,4 +11,7 @@ public class Class001 {
         this.salary = salary;
     }
 
+    public Class001() {
+
+    }
 }
