@@ -8,7 +8,7 @@ public class Class004 {
         System.out.println(aPerson.salary);
         System.out.println(aPerson.job);
         System.out.println(aPerson.experience);
-aPerson
+aPerson.
 
 
     }
