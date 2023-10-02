@@ -11,7 +11,5 @@ public class Class002 extends Class001{
         this.experience = experience;
     }
 
-    public Class002() {
-        super();
-    }
+
 }
