@@ -6,7 +6,7 @@ public class Class004 {
         System.out.println(aPerson.name);
         System.out.println(aPerson.lastName);
         System.out.println(aPerson.salary);
-aPerson
+        System.out.println(aPerson.job);
 
 
     }
