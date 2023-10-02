@@ -8,5 +8,6 @@ public class Class004 {
         System.out.println(aPerson.salary);
 
 
+
     }
 }
